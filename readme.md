@@ -33,7 +33,7 @@ firok:
 @ComponentScans(
     @ComponentScan("firok.spring.antiwcbs")
 )
-public class DeskLegApplication
+public class SpringApplication
 ```
 
 最后可在 Controller 等处使用:
